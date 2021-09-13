@@ -1,0 +1,15 @@
+Enrolment summary:
+abc101 1
+def102 3
+tom470 1
+
+Students enrolled in kkk305:
+
+Students enrolled in def102:
+1
+543210
+999999
+
+Enrolments for 999999:
+abc101
+def102

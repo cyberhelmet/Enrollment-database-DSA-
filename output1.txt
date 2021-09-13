@@ -1,0 +1,12 @@
+Enrolments for 123456:
+abc101
+def102
+kkk305
+tom470
+
+Enrolments for 111111:
+
+Enrolments for 999999:
+abc101
+def102
+kkk305
